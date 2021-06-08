@@ -1,0 +1,39 @@
+#main {
+    max-width: 100%;
+    max-height: 100%;
+    text-align: center;
+    color: #ffffff;
+    padding: 30px;
+    background-image: url('movie.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-sie: cover;
+}
+
+#main > h1 {
+    font-style: bold;
+    font-family: sans-serif;
+}
+
+#main > p {
+    font-style: justify;
+    font-family: sans-serif;
+}
+
+#form {
+    max-width: 600px;
+    display: block;
+    border-radius: 10px;
+    text-align: justify;
+    margin: 40px auto;
+    padding: 40px;
+    font-family: sans-serif;
+    background-color: #524646;
+    color: white;
+    opacity: 0.95;
+}
+
+.submitButton {
+    text-align: center;
+}
+
