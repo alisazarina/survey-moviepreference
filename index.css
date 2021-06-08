@@ -8,7 +8,7 @@
     background-image: url('movie.jpg');
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-sie: cover;
+    background-size: cover;
 }
 
 #main > h1 {
